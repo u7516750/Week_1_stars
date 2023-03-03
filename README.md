@@ -1,2 +1,2 @@
 # Week_1_stars
-It related to my homework
+It's related to my homework
